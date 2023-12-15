@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboworld/static/css/main.1f168ec7.css",
+    "main.js": "/roboworld/static/js/main.1981c72f.js",
+    "static/js/787.27f38b05.chunk.js": "/roboworld/static/js/787.27f38b05.chunk.js",
+    "static/media/TYPOGRAPH PRO Light.ttf": "/roboworld/static/media/TYPOGRAPH PRO Light.3560508b78def84c8cf7.ttf",
+    "index.html": "/roboworld/index.html",
+    "main.1f168ec7.css.map": "/roboworld/static/css/main.1f168ec7.css.map",
+    "main.1981c72f.js.map": "/roboworld/static/js/main.1981c72f.js.map",
+    "787.27f38b05.chunk.js.map": "/roboworld/static/js/787.27f38b05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f168ec7.css",
+    "static/js/main.1981c72f.js"
+  ]
+}
